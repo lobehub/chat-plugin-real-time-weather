@@ -69,9 +69,10 @@ Plugins provide a means to extend the Function Calling capabilities of LobeChat.
 
 ## ⌨️ Local Development
 
-You can use Github Codespaces for online development:
+You can use Github Codespaces or Codeanywhere for online development:
 
 [![][github-codespace-shield]][github-codespace-link]
+[![Open in Codeanywhere](https://codeanywhere.com/img/open-in-codeanywhere-btn.svg)](https://app.codeanywhere.com/#https://github.com/lobehub/chat-plugin-realtime-weather/blob/ae48b023b23cf0ffb5bf48daa8ac36f6515bc0e7/README.md)
 
 Or clone it for local development:
 
