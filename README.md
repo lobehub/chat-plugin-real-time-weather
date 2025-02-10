@@ -72,6 +72,7 @@ Plugins provide a means to extend the Function Calling capabilities of LobeChat.
 You can use Github Codespaces for online development:
 
 [![][github-codespace-shield]][github-codespace-link]
+[![][codeanywhere-badge]][codeanywhere-url]
 
 Or clone it for local development:
 
@@ -158,3 +159,5 @@ This project is [MIT](./LICENSE) licensed.
 [pr-welcome-link]: https://github.com/lobehub/chat-plugin-realtime-weather/pulls
 [pr-welcome-shield]: https://img.shields.io/badge/%F0%9F%A4%AF%20PR%20WELCOME-%E2%86%92-ffcb47?labelColor=black&style=for-the-badge
 [profile-link]: https://github.com/lobehub
+[codeanywhere-badge]:https://codeanywhere.com/img/open-in-codeanywhere-btn.svg
+[codeanywhere-url]:https://app.codeanywhere.com/#https://github.com/lobehub/chat-plugin-realtime-weather
